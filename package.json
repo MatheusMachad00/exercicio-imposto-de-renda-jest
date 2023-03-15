@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest -i"
+    "test": "npx jest -i --coverage"
   },
   "keywords": [],
   "author": "",
